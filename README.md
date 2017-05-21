@@ -1,2 +1,2 @@
 # Java
-School Projects in Java
+Basic School Projects in Java
